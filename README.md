@@ -1,3 +1,7 @@
+## Let's Connect
+* **LinkedIn:** [Trang Vu](linkedin.com/in/trangvu23)
+* **Portfolio:** [Github - Oilfield Services](https://github.com/trangvu23031999/Oil-Equipment-Performance-Analysis)
+
 # 🥗 Customer Churn Analysis
 
 ## Overview
